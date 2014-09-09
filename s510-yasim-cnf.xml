@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList include="s510-base.xml">
+
+  <sim>
+
+    <description>Bleriot SPAD S.510 (YASim)</description>
+    <author>Emmanuel BARANGER (3D/FDM)</author>
+    <flight-model>yasim</flight-model>
+    <aero>s510-yasim</aero>
+
+  </sim>
+  
+</PropertyList>
