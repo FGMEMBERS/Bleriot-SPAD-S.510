@@ -9,6 +9,17 @@
     <flight-model>yasim</flight-model>
     <aero>s510-yasim</aero>
 
+    <tags>
+      <tag>bleriot</tag>
+      <tag>biplane</tag>
+      <tag>tail-dragger</tag>
+      <tag>fixed-gear</tag>
+      <tag>single-engine</tag>
+      <tag>piston</tag>
+      <tag>fighter</tag>
+      <tag>1930s</tag>
+    </tags>
+
   </sim>
   
 </PropertyList>
